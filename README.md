@@ -1,2 +1,2 @@
 # Python-studies
-Repository destined Python, specially studies
+Repository destined to Python, specially studies
